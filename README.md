@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/rswdch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rswdch/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/rswdch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rswdch/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 **rswdch/rswdch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
