@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a full-stack software engineer currently working with TypeScript, Node.js, and React. Also experienced in Python and Java. 
+I am a full-stack software engineer currently working with TypeScript, Node.js, and React. Also experienced in Python and Java and having fun with Go. 
 
 <!--
 ![](https://raw.githubusercontent.com/rswdch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
